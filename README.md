@@ -1,4 +1,10 @@
+<div class="display: inline_block" align="center"></br>
+
 ## Prazer, Lucas Aqui! 😎👋
+
+</div>
+
+<div class="display: inline_block" align="center"></br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matias-da-silva-a723561b2/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasdamatias@gmail.com)
@@ -6,6 +12,10 @@
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMatiasSilva&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMatiasSilva&layout=compact&theme=tokyonight)](https://github.com/LucasMatiasSilva/github-readme-stats)
+
+</div>
+
+<div class="display: inline_block" align="center"></br>
 
 ### Minhas Tecnologias 🦾👨‍💻
 
@@ -27,4 +37,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
 </div>
